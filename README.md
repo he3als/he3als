@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java & how to use Linux in general (I am looking into bash scripting).
-- 📫 How to reach me: he3als#3932 ([discord.com](https://discord.com/)
-- ⚡ Fun fact: Did you know that there are 7 days in a week? Shocking.
+- 🌱 I’m currently intrested in learning Java for Minecraft modding, I do not have that much motivation to currently do so. Maybe I will some day, I don't know.
+- 📫 How to reach me: he3als#3932 (on [Discord](https://discord.com/)
 
 Have a good day! 😃 
