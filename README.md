@@ -4,4 +4,4 @@
 
 - 📫 **How to reach me:** he3als#3932 (on [Discord](https://discord.com/)).
 
-- **Have a good day!** 😃 
+- 😃 **Have a good day!**
